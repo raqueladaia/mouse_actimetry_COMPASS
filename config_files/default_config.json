@@ -1,0 +1,14 @@
+{
+  "activity_binning": {
+    "sleep_threshold": 1,
+    "boundaries": {
+      "low_max": 20,
+      "medium_max": 50,
+      "high_max": 100
+    }
+  },
+  "calibration": {
+    "activity_cap": 100,
+    "noise_threshold": 0
+  }
+}

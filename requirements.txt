@@ -1,0 +1,11 @@
+# Core dependencies (also listed in pyproject.toml [project.dependencies])
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+statsmodels>=0.14
+openpyxl>=3.1
+
+# GUI (also listed in pyproject.toml [project.optional-dependencies.gui])
+PyQt6>=6.5

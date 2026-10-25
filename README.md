@@ -23,8 +23,8 @@ COMPASS (**C**ontinuous **O**pen **M**ouse **P**henotyping of **A**ctivity and *
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/compass-analysis.git
-cd compass-analysis
+git clone https://github.com/raqueladaia/mouse_actimetry_COMPASS.git
+cd mouse_actimetry_COMPASS
 pip install -e ".[gui,dev]"
 ```
 
@@ -127,7 +127,7 @@ A custom config file can be selected in the GUI under Parameters.
 ## Project Structure
 
 ```
-compass-analysis/
+mouse_actimetry_COMPASS/
 ├── compass/              # Main package
 │   ├── io/               # File I/O (CSV, Excel, .npz, config)
 │   ├── processing/       # Data transforms (binning, bout detection)

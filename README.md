@@ -193,6 +193,10 @@ See [INFORMATION.md](INFORMATION.md) for additional technical details on the dat
 
 Brown, L. A., Hasan, S., Foster, R. G., & Peirson, S. N. (2017). COMPASS: Continuous Open Mouse Phenotyping of Activity and Sleep Status. *Wellcome Open Research*, 1, 2. https://doi.org/10.12688/wellcomeopenres.9892.2
 
+## Author
+
+Developed by [Raquel Adaia Sandoval Ortega, PhD](https://sandovalortega.com/), neuroscientist at the University of Pennsylvania. Read more about COMPASS Activity Analysis and related research software at [sandovalortega.com/projects/](https://sandovalortega.com/projects/).
+
 ## License
 
 MIT
